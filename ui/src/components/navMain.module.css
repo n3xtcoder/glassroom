@@ -5,10 +5,18 @@
   text-transform: uppercase;
   line-height: 2;
 }
-@media (max-width: break-tablet){
+@media (max-width: tablet){
   .navMain{
     display: none;
   }
+}
+
+.navMain a {
+  margin-left: gutter;
+}
+
+.navMain a:hover {
+  color: active;
 }
 
 .navOpened {

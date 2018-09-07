@@ -1,34 +1,32 @@
 import React from 'react';
 import {Blockquote} from '../components/Blockquote.js';
 import {Content} from '../components/Content.js';
-import styles from './about.module.css';
+import styles from './experience.module.css';
 
 export default ({ data }) => {
 
-  const {blockquote, imageRow } = data.about.frontmatter
+  const {topImage, blockquote, imageRow } = data.experience.frontmatter
 
     return (
         <div>
-          <div className={styles.videoWrapper}>
-            <iframe className={styles.video} src="https://player.vimeo.com/video/237822352" width="1170" height="658" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-          </div>
+          <div className={styles.topImage} style={{ backgroundImage: `url(${topImage})` }}></div>
           <Blockquote quote={blockquote}/>
           <div className={styles.imageRow}>
             {imageRow.map((n,i)=>(
                 <div className={styles.imageWrapper}><div key={i} className={styles.rowImage} style={{ backgroundImage: `url(${n})` }}></div></div>
             ))}
           </div>
-          <Content content={data.about.html }/>
+          <Content content={data.experience.html}/>
         </div>
     );
 
 };
 
-export const aboutQuery = graphql`
-  query aboutQuery ($path: String!) {
-    about: markdownRemark(fields: { slug: { eq: $path } }) {
-      html
+export const experienceQuery = graphql`
+  query experienceQuery ($path: String!) {
+    experience: markdownRemark(fields: { slug: { eq: $path } }) {
       frontmatter {
+        topImage
         blockquote
         imageRow
       }
