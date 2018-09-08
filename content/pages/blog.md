@@ -1,4 +1,0 @@
----
-templateKey: blog
-title: blog
----

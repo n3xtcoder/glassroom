@@ -1,8 +1,0 @@
-@import '../layouts/variables.css';
-
-.blockquote {
-  border-left: 4px solid lightGrey;
-  max-width: textBlockWidth;
-  padding: 10px 20px;
-  margin: gutter auto;
-}
