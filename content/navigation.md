@@ -15,4 +15,17 @@ imageNav:
   - image: /glassroom/uploads/davidmirzoeff_15_10_17_glass_room_tate_49-334x334.jpg
     label: The Glass Room Experience
     url: /glassroom/glassroom-experience
+imageNavProgram:
+  - image: /uploads/Speakers-1-333x333.jpg
+    label: |
+      **Speakers**
+
+      AI and Human Rights  to The Rise of the Radicals; see more from the talks programme.
+    url: /glassroom/program#speaker
+  - image: /uploads/Workshops-361x361.jpg
+    label: |
+      **Workshops **
+
+      How to Hack Your Breaking News Feed to Citizen Scores; see more past workshops.
+    url: /glassroom/program#workshops
 ---
