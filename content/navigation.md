@@ -16,13 +16,13 @@ imageNav:
     label: The Glass Room Experience
     url: /glassroom/glassroom-experience
 imageNavProgram:
-  - image: /uploads/Speakers-1-333x333.jpg
+  - image: /glassroom/uploads/Speakers-1-333x333.jpg
     label: |
       **Speakers**
 
       AI and Human Rights  to The Rise of the Radicals; see more from the talks programme.
     url: /glassroom/program#speaker
-  - image: /uploads/Workshops-361x361.jpg
+  - image: /glassroom/uploads/Workshops-361x361.jpg
     label: |
       **Workshops **
 
