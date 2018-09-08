@@ -2,7 +2,7 @@
 imageNav:
   - image: /glassroom/uploads/TheGlassRoomWindow-333x333.jpg
     label: About the Glass Room
-    url: /about
+    url: /glassroom/about
   - image: /glassroom/uploads/exhibit-321x321.jpg
     label: Public Responses
     url: https://tacticaltech.org/news/glass-room-public-response/
@@ -14,5 +14,5 @@ imageNav:
     url: https://tacticaltech.org/pages/glass-room-london-press
   - image: /glassroom/uploads/davidmirzoeff_15_10_17_glass_room_tate_49-334x334.jpg
     label: The Glass Room Experience
-    url: /glassroom-experience
+    url: /glassroom/glassroom-experience
 ---
