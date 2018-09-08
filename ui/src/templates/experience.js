@@ -1,5 +1,8 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
+import {TopImage} from '../components/TopImage.js';
 import {Blockquote} from '../components/Blockquote.js';
+import {ImageRow} from '../components/ImageRow.js';
 import {Content} from '../components/Content.js';
 import styles from './experience.module.css';
 
@@ -9,13 +12,9 @@ export default ({ data }) => {
 
     return (
         <div>
-          <div className={styles.topImage} style={{ backgroundImage: `url(${topImage})` }}></div>
-          <Blockquote quote={blockquote}/>
-          <div className={styles.imageRow}>
-            {imageRow.map((n,i)=>(
-                <div className={styles.imageWrapper}><div key={i} className={styles.rowImage} style={{ backgroundImage: `url(${n})` }}></div></div>
-            ))}
-          </div>
+          <TopImage image={topImage}/>
+          <Blockquote quote={<ReactMarkdown source={blockquote}/>}/>
+          <ImageRow images={imageRow}/>
           <Content content={data.experience.html}/>
         </div>
     );

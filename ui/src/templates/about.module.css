@@ -14,36 +14,63 @@
   border: none;
 }
 
-.imageRow {
+.greyBackground {
+  width: 100vw;
+  background-color: lightGrey;
+  font-weight: 300;
+  padding: gutter;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+
+.card {
+  background-color: white;
+  max-width: maxContentWidth;
+  margin: gutter auto;
+  padding: gutter;
+}
+
+.flexWrapper {
   display: flex;
-  justify-content: space-between;
-}
-
-.imageWrapper {
-  width: 360px;
   margin: gutter;
 }
-
-.rowImage{
-  width: 100%;
-  height: 0;
-  padding-top: 66%;
-  background-position: center;
-  background-size: cover;
+@media (max-width: tablet){
+  .flexWrapper {
+    flex-wrap: wrap;
+  }
 }
 
-
-
-.wrapper{
-  width: 200px;
-  margin: gutter;
-}
-
-.image{
+.curatorImage {
+  flex-shrink: 0;
   border-radius: 100%;
-  width: 100%;
-  height: 0;
-  padding-top: 100%;
+  width: 260px;
+  height: 260px;
+  margin: padding 60px padding 0;
   background-position: center;
   background-size: cover;
+}
+
+.partnerWrapper {
+  width: 50%;
+  padding: gutter;
+}
+@media (max-width: tablet){
+  .partnerWrapper {
+    width:100%;
+  }
+}
+
+.supportWrapper {
+  width: 25%;
+  padding: gutter;
+}
+@media (max-width: tablet){
+  .supportWrapper {
+    width:50%;
+  }
+}
+
+.partnerWrapper img , .supportWrapper img{
+  width: 100%;
 }
