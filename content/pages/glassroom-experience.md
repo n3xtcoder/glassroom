@@ -16,29 +16,10 @@ Play Fake or Real to see how smart you are in the world of smart devices. Find o
 
 Pick up a free Data Detox Kit, our easy, 8-day digital privacy guide that gives you simple steps to take control of your online life, not to mention your smart devices.
 
-<<<<<<< HEAD
-```
-Two new tablet apps – the Fake or Real game and The Internet you Don’t See -
-displayed on three tablets with their own table surround.
-```
-![description](/glassroom/uploads/1-500x321.jpg)
-
-```
-Visualisations on large laminated card based on Glass Room objects: The Alphabet
-Empire and The Zuckerberg House
-```
-![description](/glassroom/uploads/7-500x333.jpg)
-
-```
-A new giant visualisation explaining facial recognition – The Real Life of Your Selfie
-```
-![description](/glassroom/uploads/7-500x333.jpg)
-=======
 The Glass Room Experience is being exhibited at events, libraries, schools, organisations and companies around the world. The Glass Room Experience has been to over 40 events around the world reaching over 30,000 people
 
 You can opply to host your own exhibition [here](https://lime.ttc.io/index.php/827633?lang=en) and start your own conversation on data and privacy wherever you are.
 
->>>>>>> master
 
 
 **What's in The Glass Room Experience IoT Edition?**
