@@ -11,6 +11,10 @@
   }
 }
 
+.imageNavWrapper a {
+  color: grey;
+}
+
 .wrapper{
   width: 200px;
   margin: gutter;

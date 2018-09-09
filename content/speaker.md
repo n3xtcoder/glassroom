@@ -13,7 +13,7 @@ speaker:
     text: |
       "!Mediengruppe Bitnik live and work in Zurich/Berlin. They are contemporary artists working on, and with, the internet. Their practice expands from the digital to physical spaces, often intentionally applying loss of control to challenge established structures and mechanisms. !Mediengruppe Bitnik are Carmen Weisskopf and Domagoj Smoljo.
 
-      [wwwwwwwwwwwwwwwwwwwwww.bitnik.org](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/)<br>
+      [wwwwwwwwwwwwwwwww<span> </span>wwwww.bitnik.org](https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/)<br>
       [@bitnk](https://twitter.com/bitnk)
 
       !Mediengruppe Bitnik: Bots and Angels – Friday, 27 October, 2017 7:00 pm - 8:00 pm"
