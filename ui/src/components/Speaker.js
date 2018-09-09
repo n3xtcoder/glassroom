@@ -8,7 +8,7 @@ export const Speaker = (props) => (
       <div className={styles.speakerImage} style={{ backgroundImage: `url(${props.image})` }}></div>
       <div>
         <h2>{props.title}</h2>
-        <ReactMarkdown source={props.text}/>
+        <ReactMarkdown source={props.text} escapeHtml={false}/>
       </div>
   </div>
 )

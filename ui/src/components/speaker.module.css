@@ -36,3 +36,7 @@
     margin: 0 auto;
   }
 }
+
+.speaker a {
+  color:active;
+}
