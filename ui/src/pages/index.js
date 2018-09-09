@@ -15,7 +15,16 @@ export default ({ data }) => {
     return (
         <div>
           <div className={styles.sliderWrapper}>
-            <ImageGallery items={images} showThumbnails={false} showFullscreenButton={false} showPlayButton={false} showBullets={true}/>
+            <ImageGallery
+              items={images}
+              showThumbnails={false}
+              showFullscreenButton={false}
+              showPlayButton={false}
+              showBullets={true}
+              autoPlay={true}
+              slideDuration={600}
+              slideInterval={4000}
+            />
           </div>
           <Blockquote quote={quote}/>
           <CircleLinks nav={imageNav}/>

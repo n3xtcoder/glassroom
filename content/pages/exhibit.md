@@ -3,16 +3,73 @@ templateKey: exhibit
 title: exhibit
 blockquote: "*…provocative artworks that play with the use and abuse of data in our world* – Hyperallergic on The Glass Room NYC"
 topImage: /uploads/the_glass_room_05_11_17_55-1000x717.jpg
+contentPart1: |
+  "What is personal data in an age where data is everything but personal? The Glass Room is a space for reflection, experimentation and play that provides different ways of understanding how technologies and data are changing our lives. The Glass Room puts big data on display in ways that make it tangible and less abstract. What does your data say about you, and how is it being used to define you? What do you give up in exchange? How are data and technology changing the personal, professional and social fabric of all of our lives?
+
+  The Data Detox Bar is where you can get one-to-one advice and simple tips and tricks on how to protect your privacy online and reclaim your digital self. Our staff of Ingeniuses are on hand to answer your questions about the exhibits, talk to you about the issues they raise, and give you practical advice to help you make informed choices about what you do with your data.
+
+  The Glass Room is presented by Mozilla and curated by Tactical Tech.
+
+  Mozilla is the not-for-profit behind the Firefox web browser and uses technology, products and advocacy to make the internet healthier so it’s easy to access, safe to use, and empowers everyone, everywhere.
+
+  Tactical Tech is a Berlin-based non-profit organisation working at the intersection of technology, human rights and civil liberties. Tactical Tech provides trainings, conducts research and creates cultural interventions that contribute to the wider socio-political debate around digital security, privacy and the fair use of data.
+
+  The Glass Room unfolds in four thematic sections, each of which explores a different aspect of our digital world:"
 ---
 
-What is personal data in an age where data is everything but personal? The Glass Room is a space for reflection, experimentation and play that provides different ways of understanding how technologies and data are changing our lives. The Glass Room puts big data on display in ways that make it tangible and less abstract. What does your data say about you, and how is it being used to define you? What do you give up in exchange? How are data and technology changing the personal, professional and social fabric of all of our lives?
+# OPEN THE BOX
+A series of short animations by Tactical Tech.
 
-The Data Detox Bar is where you can get one-to-one advice and simple tips and tricks on how to protect your privacy online and reclaim your digital self. Our staff of Ingeniuses are on hand to answer your questions about the exhibits, talk to you about the issues they raise, and give you practical advice to help you make informed choices about what you do with your data.
+![Data Anonymization by Tactical Technology Collective](/uploads/data-anonymization.png)
+*Data Anonymization by Tactical Technology Collective*
 
-The Glass Room is presented by Mozilla and curated by Tactical Tech.
+![Relog NYC by Tactical Technology Collective](/uploads/re-log-nyc.png)
+*Re:log NYC by Tactical Technology Collective*
 
-Mozilla is the not-for-profit behind the Firefox web browser and uses technology, products and advocacy to make the internet healthier so it’s easy to access, safe to use, and empowers everyone, everywhere.
 
-Tactical Tech is a Berlin-based non-profit organisation working at the intersection of technology, human rights and civil liberties. Tactical Tech provides trainings, conducts research and creates cultural interventions that contribute to the wider socio-political debate around digital security, privacy and the fair use of data.
 
-The Glass Room unfolds in four thematic sections, each of which explores a different aspect of our digital world:
+Citizen Ex
+Project by James Bridle, animation by Tactical Tech
+Every time you go online, you are connected through servers in different countries and jurisdictions. These virtual journeys are tracked, and your data, accurate or not, is stored around the globe. Citizen Ex is a browser plugin for Firefox, Chrome and Safari that reveals your ‘Algorithmic Citizenship’; in other words, it shows you what countries you appear to belong to, based on your travels online. The different virtual nationalities you take on may determine whether foreign intelligence agencies have the right to spy on your activities.
+Confessions of a Data Broker Project & animation by Tactical Tech
+The buying, selling and analysing of our data is a massive industry, yet it is one we don’t know much about. Who are data brokers and how do they operate? This animation shows some of the findings from Tactical Tech’s anonymous interviews with those who buy and sell your data. In these off-the-record interviews, data brokers talked about whom they buy data from and how, which data is rubbish and which is gold, and how our data is turned into cash for a multi-billion-pound industry.
+
+Data Anonymisation Animation by Tactical Tech
+How many times have companies claimed that they will anonymise your data? The suggestion of anonymisation is that it will promise us privacy if we give our data away. But how realistic is that promise? Through one case study using research into cabs in New York City, this animation shows how even anonymised data – if it is combined with data that’s already available in the wild – can easily be used to reveal who you are and where you go.
+
+IC Watch
+Project by IC Watch, animation by Tactical Tech
+Many of us use social networking sites to find new jobs, get new clients or build new business relationships. In doing so, we share a lot of information about our personal and professional lives with a broad range of people that we will likely never meet. This visualisation focuses on the professional networking site LinkedIn, and illustrates how much it can show us about job-seekers and job-holders in one particular sector – in this case, the intelligence community. What can happen when information published for one purpose is used for another?
+
+Inside Hacking Team Project by Share Lab, animation by Tactical Tech
+We often hear about metadata – that is, data about data. Apart from the content of your communications, metadata can reveal what we are doing, with whom, when and where. This visualisation looks at the leaked emails of one organization and shows the amount of information that can be gleaned just by looking at metadata generated by sending and receiving emails. Even without the content of communications, we can get a detailed picture of the company, its dealings, social networks and internal politics. This technique can be applied to all of us – the more metadata our email provider has, the clearer their picture of us becomes.
+
+Living with Algorithms Animation by Tactical Tech
+Algorithms are used as a general term to explain the underpinnings of everything from big data to machine learning. One of the main functions of algorithms is to process the masses of our online data, using the patterns of our past behaviour to guess what we will do next – from what we might buy to whether we will commit a crime. This animation looks at how algorithms are applied in our daily lives and asks how reliable it is to use the past to predict the future.
+
+Re:Log Project by Open Data City, animation by Tactical Tech
+Whenever we can, we join free WiFi networks to get online when we are on the move. This animation – based on data gathered from a conference held in Berlin, Germany in 2013 – shows what the operator of these communication networks can see, what they can learn about who is in the space and their activities.
+
+Serious Profiling Project & animation by Tactical Tech
+If you use a smartphone, you have on online profile. Do you have one or many? Are you in control of your profile? Is it based on information you are giving away, or assumptions companies are making about you? This animation looks at the ways in which our online identities are created based on our actions online and offline, and how they are used by the data industry. As our profiles become more valuable, it also looks at the new clients for these profiles in the world of finance, insurance and politics.
+
+The Monitored Life of National Councillor Balthasar Glättli Project by OpenDataCity, animation by Tactical Tech
+As we go about our daily lives, we generate all kinds of information through our smart phones, all of which can disclose insights into our actions, habits and life patterns. We are usually unaware of how much our devices are sharing information about our movements, habits and social networks. This visualisation shows intimate knowledge of a Swiss politician’s calendar, professional engagements, family life, physical movements and social media habits. It also reveals the sheer volume of information that digital devices collect and transmit.
+
+The Scoring Society Project & animation by Tactical Tech
+From Dave Eggers’ The Circle to Charlie Brooker’s Black Mirror, fiction writers are beginning to paint a nightmarish scenario for us of the ‘scoring society’ – a neurotic world in which we are constantly rated through endless feedback loops and random point systems. This animation looks at how scoring is being applied to us based on our online activity – assessing our ‘risk factors’ for receiving a loan, insurance, a credit score, or even being a criminal or terrorist.
+
+Trackography Project & animation by Tactical Tech
+Whenever you browse a website, someone is looking over your shoulder. Almost every site visit is tracked by a third-party that shares and sometimes sells your data to others. And they might not always be visible to you. Trackography is an interactive visual tool that can show you the trackers present on the news websites you visit; which companies they, in turn, connect with, and where else your data may have travelled between those two points.
+
+Data and Elections
+Project & animation by Tactical Tech
+How can our data be used by political parties to influence us? Even information we think of as anonymous – like what magazine we subscribe to or what we shop for – can be used to create a personal profile of us that helps political parties create adverts that are micro-targeted to us. This animation decodes some of the companies that are part of this growing trend in political influencing.
+
+Browser Histories
+Project by Share Lab, animation by Tactical Tech
+Through a case study of just one individual, find out what your browser history might reveal about you. Who sees what you’re browsing, and what can they discover about you?
+
+Data and the Home
+Project & animation by Tactical Tech
+The algorithms that control the devices that make up the Internet of Things – in our homes and our cities – need to be trained to ‘understand’ us. But do we understand, in turn, how these connected systems work? What happens to all the data that is accumulated by the devices in our homes?

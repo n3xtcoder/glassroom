@@ -19,7 +19,7 @@ body {
 
 a {
   text-decoration: none;
-  color: grey;
+  color: active;
 }
 
 a:active {

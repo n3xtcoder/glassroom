@@ -13,6 +13,7 @@
 
 .navMain a {
   margin-left: gutter;
+  color: grey;
 }
 
 .navMain a:hover {

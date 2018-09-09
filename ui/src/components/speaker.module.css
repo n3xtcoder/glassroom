@@ -36,3 +36,12 @@
     margin: 0 auto;
   }
 }
+
+.speaker a {
+  color:active;
+}
+
+/* hack to break up that insane wwwwwwwwwww-url of Mediengruppe Bitnik*/
+.speaker span{
+  font-size: 1px;
+}

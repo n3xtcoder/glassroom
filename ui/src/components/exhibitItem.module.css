@@ -29,3 +29,8 @@
     margin: 0 auto;
   }
 }
+@media (max-width: mobile) {
+  .exhibitImage{
+    flex-shrink:1;
+  }
+}

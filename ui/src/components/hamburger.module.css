@@ -31,13 +31,14 @@
 }
 
 .hamburger {
+  display:none;
   position: relative;
   height: 34px;
   width: 46px;
 }
-@media (min-width: tablet){
+@media (max-width: tablet){
   .hamburger{
-    display: none;
+    display: block;
   }
 }
 

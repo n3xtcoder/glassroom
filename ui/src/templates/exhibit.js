@@ -8,7 +8,7 @@ import styles from './exhibit.module.css';
 
 export default ({ data }) => {
 
-  const {title, topImage, blockquote } = data.exhibit.frontmatter
+  const {title, topImage, blockquote, contentPart1 } = data.exhibit.frontmatter
   const exhibits = data.exhibitItems.frontmatter.exhibits
 
     return (
@@ -16,18 +16,27 @@ export default ({ data }) => {
           <h1>{title}</h1>
           <TopImage image={topImage}/>
           <Blockquote quote={<ReactMarkdown source={blockquote}/>}/>
-          <Content content={data.exhibit.html}/>
+          <Content content={contentPart1}/>
 
           <div className={styles.greyBackground}>
 
-            {exhibits.map((n,i)=>(
-              <ExhibitItem key={i} image={n.image} title={n.title} text={n.text}/>
-            ))}
+            {exhibits.map((n,i)=>{
+              return (
+                <div key={i}>
+                  <h1>{n.title}</h1>
+                  <p>{n.text}</p>
+
+                  {n.items.map((n,i)=>(
+                    <ExhibitItem key={i} image={n.image} title={n.title} text={n.text}/>
+                  ))}
+                </div>
+              )
+            })}
           </div>
 
+          <Content content={data.exhibit.html}/>
         </div>
     );
-
 };
 
 export const exhibitQuery = graphql`
@@ -37,16 +46,20 @@ export const exhibitQuery = graphql`
         title
         topImage
         blockquote
+        contentPart1
       }
       html
     }
     exhibitItems: markdownRemark(fileAbsolutePath: {regex: "/content/exhibits/"}) {
       frontmatter {
         exhibits{
-          image
           title
           text
-          url
+          items {
+            image
+            title
+            text
+          }
         }
       }
     }

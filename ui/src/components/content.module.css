@@ -2,7 +2,7 @@
 
 .content {
   max-width: textBlockWidth;
-  margin: 0 auto;
+  margin: 0 auto gutter auto;
 }
 
 .content ul, .content pre {
@@ -25,4 +25,10 @@
 
 .content ul {
   list-style-position: inside;
+}
+
+.content img~em {
+  display: block;
+  text-align: center;
+  margin-top: -15px;
 }

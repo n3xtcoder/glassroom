@@ -42,8 +42,8 @@ export default ({ data }) => {
 
 };
 
-export const programQuery = graphql`
-  query programQuery ($path: String!) {
+export const proramQuery = graphql`
+  query programQury ($path: String!) {
     program: markdownRemark(fields: { slug: { eq: $path } }) {
       frontmatter {
         title
