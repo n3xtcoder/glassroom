@@ -2,25 +2,25 @@
 templateKey: experience
 title: the glass room experience
 blockquote: An eye-catching, self-learning installation on data and privacy you can easily set up and host for your own event, organisation or space. What is personal data in an age when our data is everything but personal? Our websites, apps, social media and 'smart' devices all thrive on the same thing that makes tech companies billions – data. Not just any data, but our data.
-topImage: /glassroom/uploads/header.jpg
+topImage: /glassroomheader.jpg
 imageRow1:
-  - /glassroom/uploads/r1_1.jpg
-  - /glassroom/uploads/r1_2.jpg
-  - /glassroom/uploads/r1_3.jpg
+  - /uploads/r1_1.jpg
+  - /uploads/r1_2.jpg
+  - /uploads/r1_3.jpg
 imageRow2:
-  - /glassroom/uploads/r2_1.png
-  - /glassroom/uploads/r2_2.jpg
-  - /glassroom/uploads/r2_3.png
+  - /uploads/r2_1.png
+  - /uploads/r2_2.jpg
+  - /uploads/r2_3.png
 imageRow3:
-  - /glassroom/uploads/r3_1.png
-  - /glassroom/uploads/r3_2.jpg
-  - /glassroom/uploads/r3_3.jpg
+  - /uploads/r3_1.png
+  - /uploads/r3_2.jpg
+  - /uploads/r3_3.jpg
 imageRow4:
-  - /glassroom/uploads/r4_1.jpg
-  - /glassroom/uploads/r4_2.jpg
-  - /glassroom/uploads/r4_3.jpg
+  - /uploads/r4_1.jpg
+  - /uploads/r4_2.jpg
+  - /uploads/r4_3.jpg
 imageRow5:
-  - /glassroom/uploads/r5_1.jpg
-  - /glassroom/uploads/r5_2.jpg
-  - /glassroom/uploads/r5_3.jpg
+  - /uploads/r5_1.jpg
+  - /uploads/r5_2.jpg
+  - /uploads/r5_3.jpg
 ---

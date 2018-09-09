@@ -1,28 +1,28 @@
 ---
 imageNav:
-  - image: /glassroom/uploads/TheGlassRoomWindow-333x333.jpg
+  - image: /uploads/TheGlassRoomWindow-333x333.jpg
     label: About the Glass Room
     url: /glassroom/about
-  - image: /glassroom/uploads/exhibit-321x321.jpg
+  - image: /uploads/exhibit-321x321.jpg
     label: Public Responses
     url: https://tacticaltech.org/news/glass-room-public-response/
-  - image: /glassroom/uploads/DDK-black-473x473.png
+  - image: /uploads/DDK-black-473x473.png
     label: Online 8-Day Data Detox Kit
     url: https://datadetox.myshadow.org/en/detox
-  - image: /glassroom/uploads/press-410x410.png
+  - image: /uploads/press-410x410.png
     label: Press Highlights
     url: https://tacticaltech.org/pages/glass-room-london-press
-  - image: /glassroom/uploads/davidmirzoeff_15_10_17_glass_room_tate_49-334x334.jpg
+  - image: /uploads/davidmirzoeff_15_10_17_glass_room_tate_49-334x334.jpg
     label: The Glass Room Experience
     url: /glassroom/glassroom-experience
 imageNavProgram:
-  - image: /glassroom/uploads/Speakers-1-333x333.jpg
+  - image: /uploads/Speakers-1-333x333.jpg
     label: |
       **Speakers**
 
       AI and Human Rights  to The Rise of the Radicals; see more from the talks programme.
     url: /glassroom/program#speaker
-  - image: /glassroom/uploads/Workshops-361x361.jpg
+  - image: /uploads/Workshops-361x361.jpg
     label: |
       **Workshops **
 

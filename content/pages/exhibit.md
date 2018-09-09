@@ -2,7 +2,7 @@
 templateKey: exhibit
 title: exhibit
 blockquote: "*…provocative artworks that play with the use and abuse of data in our world* – Hyperallergic on The Glass Room NYC"
-topImage: /glassroom/uploads/the_glass_room_05_11_17_55-1000x717.jpg
+topImage: /uploads/the_glass_room_05_11_17_55-1000x717.jpg
 ---
 
 What is personal data in an age where data is everything but personal? The Glass Room is a space for reflection, experimentation and play that provides different ways of understanding how technologies and data are changing our lives. The Glass Room puts big data on display in ways that make it tangible and less abstract. What does your data say about you, and how is it being used to define you? What do you give up in exchange? How are data and technology changing the personal, professional and social fabric of all of our lives?

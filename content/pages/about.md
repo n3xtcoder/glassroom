@@ -3,11 +3,11 @@ templateKey: about
 title: about
 blockquote: At first glance, it offers the latest in shiny digital consumer products, such as the newest tablet, fitness tracker or facial recognition software. But as you go inside, you’ll find there is nothing for sale.
 imageRow:
-  - /glassroom/uploads/11-500x333.jpg
-  - /glassroom/uploads/7-500x333.jpg
-  - /glassroom/uploads/1-500x321.jpg
+  - /uploads/11-500x333.jpg
+  - /uploads/7-500x333.jpg
+  - /uploads/1-500x321.jpg
 curators:
-  image: /glassroom/uploads/StephMarek-copy-496x496.jpg
+  image: /uploads/StephMarek-copy-496x496.jpg
   text: |
     Executive Director Stephanie Hankey and Creative Director Marek Tuszynski co-founded Tactical Tech in 2003. They work on technology, politics, information, design and activism and the consequences of living in a quantified society. They are also co-founders of the creative agency Tactical Studios and co-curators of the exhibition Nervous Systems: Quantified Life and the Social Question.
 
@@ -15,12 +15,12 @@ curators:
 
     **Marek Tuszynski** is an activist and filmmaker; his most recent documentary series for Tactical Tech, Exposing the Invisible, explores the digital tools and tactics that now enable evidence-based activism to thrive on an unprecedented scale.
 partners:
-  - image: /glassroom/uploads/mozilla-logo.svg
+  - image: /uploads/mozilla-logo.svg
     text: Mozilla is the non-profit behind the Firefox web browser, and uses technology, products and advocacy to make the internet healthier so it’s easy to access, safe to use, and empowers everyone, everywhere.
     web: bla
     facebook: bla
     twitter: bla
-  - image: /glassroom/uploads/ttc_black_logo.svg
+  - image: /uploads/ttc_black_logo.svg
     text: Tactical Tech is a Berlin-based organisation working at the intersection of technology, human rights and civil liberties. They provide trainings, conduct research, and create cultural interventions that contribute to the wider socio-political debate around digital security, privacy and the ethics of data.
     web: bla
     facebook: bla
@@ -30,10 +30,10 @@ contact: |
 
   press@mozilla.com
 support:
-  - /glassroom/uploads/GI_Logo_horizontal_black_sRGB-e1511367245382.png
-  - /glassroom/uploads/omidyar_network_logo-200x100.png
-  - /glassroom/uploads/OSF_logo_RGB-e1511366899696.jpg
-  - /glassroom/uploads/sigridrausinglogo-e1511367719201.jpg
+  - /uploads/GI_Logo_horizontal_black_sRGB-e1511367245382.png
+  - /uploads/omidyar_network_logo-200x100.png
+  - /uploads/OSF_logo_RGB-e1511366899696.jpg
+  - /uploads/sigridrausinglogo-e1511367719201.jpg
 ---
 
 
