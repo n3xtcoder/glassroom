@@ -2,7 +2,7 @@
 
 .content {
   max-width: textBlockWidth;
-  margin: 0 auto;
+  margin: 0 auto gutter auto;
 }
 
 .content ul, .content pre {

@@ -20,7 +20,7 @@ workshops:
     title: WTF (What the Facebook)?
     text: |
       "What aspects of your life are you sharing with Facebook? How much does this company know about you through your daily use of products like Instagram, Whatsapp, Facebook messenger and other Facebook-owned services? Why does it matter? This workshop takes a critical look at Facebook, and explores tactics for minimising the data traces you leave, through strategies and settings."
-  - image: /uploads/w_2.jpg
+  - image: /uploads/w_browser.jpg
     title: Boost your Browsing
     text: |
       "Searching, surfing and shopping, much of it happens in your browser. Curious how your browser (Firefox, Chrome, Safari, and so on) leaves you open to tracking and profiling? This workshop focused on tools and strategies for gaining more control over your data traces, by looking ‘under the hood’ of your browser, into settings and configurations; discussing strategies of use; and exploring a few specific add-ons and extensions that will transform your browsing experience."

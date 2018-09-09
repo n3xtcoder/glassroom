@@ -17,14 +17,14 @@ exhibits:
 
           *This project is produced as part of the Summer Sessions Network for Talent Development in a co-production of Master in Technology and Aesthetics of Electronic Arts – National University of Tres de Febrero and V2_ Lab for the Unstable Media, with support of the Creative Industries Fund NL.*
 
-          [visit artist site]()
+          [visit artist site](http://speculative.capital/)
       - image: /uploads/the_glass_room_24_10_17_32-1000x667.jpg
         title: Unfit Bits<br>Tega Brain & Surya Mattu<br>@tegabrain / @suryamattu
         text: |
           Who are you really working for when you work out? The information your Fitbit collects about you is not only valuable to you alone. Your doctor or insurance company may like to know when you skip the gym or take the lift instead of climbing the stairs. In fact, some insurance companies already offer discounts if you agree to share your Fitbit stats with them. And, in the future, the cost of your insurance will most likely depend on this kind of data about your footsteps and heart rate. Now you can free yourself from the pressure of always having to be active with Unfit Bits. Clip your Fitbit to a metronome, a drill, a bicycle wheel or a pendulum and generate valuable fitness data without lifting a finger.
 
-          [visit artist site]()<br>
-          [visit artist site]()
+          [visit artist site](http://www.tegabrain.com/)<br>
+          [visit artist site](http://www.suryamattu.com/)
   - title: WE KNOW YOU
     text: |
       Initially branded as disruptive upstarts, the five companies that have come to be known as GAFAM (Google, Apple, Facebook, Amazon, Microsoft) have become some of the biggest companies in the world and have amassed the largest shares of our data. These tech giants have made themselves indispensable in our lives, providing services that are as valuable as basic utilities. Collectively, they now wield an unprecedented level of power and influence that stretches across all aspects of our lives, from work to home to leisure. How many of their services do you rely on? And how much do these companies know about you? Each of the exhibits at this table explores a different way in which tech companies and the people who run them have become engrained in our lives. They know us, but how much do we really know about them?
