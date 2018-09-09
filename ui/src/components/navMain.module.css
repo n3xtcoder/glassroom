@@ -14,6 +14,7 @@
 .navMain a {
   margin-left: gutter;
   color: grey;
+  font-weight: 300;
 }
 
 .navMain a:hover {
