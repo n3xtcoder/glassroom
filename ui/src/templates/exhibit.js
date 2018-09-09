@@ -8,16 +8,15 @@ import styles from './exhibit.module.css';
 
 export default ({ data }) => {
 
-  const {title, topImage, blockquote } = data.exhibit.frontmatter
+  const {title, topImage, blockquote, contentPart1 } = data.exhibit.frontmatter
   const exhibits = data.exhibitItems.frontmatter.exhibits
-  console.log(exhibits)
 
     return (
         <div>
           <h1>{title}</h1>
           <TopImage image={topImage}/>
           <Blockquote quote={<ReactMarkdown source={blockquote}/>}/>
-          <Content content={data.exhibit.html}/>
+          <Content content={contentPart1}/>
 
           <div className={styles.greyBackground}>
 
@@ -33,8 +32,9 @@ export default ({ data }) => {
                 </div>
               )
             })}
-
           </div>
+
+          <Content content={data.exhibit.html}/>
         </div>
     );
 };
@@ -46,6 +46,7 @@ export const exhibitQuery = graphql`
         title
         topImage
         blockquote
+        contentPart1
       }
       html
     }

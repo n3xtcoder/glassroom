@@ -26,3 +26,9 @@
 .content ul {
   list-style-position: inside;
 }
+
+.content img~em {
+  display: block;
+  text-align: center;
+  margin-top: -15px;
+}
