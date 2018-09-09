@@ -2,6 +2,7 @@ import React from 'react';
 import ImageGallery from 'react-image-gallery';
 import sliderStyles from "../../node_modules/react-image-gallery/styles/css/image-gallery.css";
 import {Blockquote} from '../components/Blockquote.js';
+import {Content} from '../components/Content.js';
 import {CircleLinks} from '../components/CircleLinks';
 import styles from './index.module.css';
 
@@ -27,6 +28,7 @@ export default ({ data }) => {
             />
           </div>
           <Blockquote quote={quote}/>
+          <Content src={data.page.html}/>
           <CircleLinks nav={imageNav}/>
         </div>
     );
@@ -52,6 +54,7 @@ export const indexQuery = graphql`
           url
         }
       }
+      html
     }
    }
 `;
