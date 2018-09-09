@@ -10,6 +10,7 @@ export default ({ data }) => {
 
   const {title, topImage, blockquote } = data.exhibit.frontmatter
   const exhibits = data.exhibitItems.frontmatter.exhibits
+  console.log(exhibits)
 
     return (
         <div>
@@ -20,14 +21,22 @@ export default ({ data }) => {
 
           <div className={styles.greyBackground}>
 
-            {exhibits.map((n,i)=>(
-              <ExhibitItem key={i} image={n.image} title={n.title} text={n.text}/>
-            ))}
-          </div>
+            {exhibits.map((n,i)=>{
+              return (
+                <div key={i}>
+                  <h1>{n.title}</h1>
+                  <p>{n.text}</p>
 
+                  {n.items.map((n,i)=>(
+                    <ExhibitItem key={i} image={n.image} title={n.title} text={n.text}/>
+                  ))}
+                </div>
+              )
+            })}
+
+          </div>
         </div>
     );
-
 };
 
 export const exhibitQuery = graphql`
@@ -43,10 +52,13 @@ export const exhibitQuery = graphql`
     exhibitItems: markdownRemark(fileAbsolutePath: {regex: "/content/exhibits/"}) {
       frontmatter {
         exhibits{
-          image
           title
           text
-          url
+          items {
+            image
+            title
+            text
+          }
         }
       }
     }

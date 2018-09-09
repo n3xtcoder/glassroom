@@ -8,7 +8,7 @@ export const ExhibitItem = (props) => (
       <div className={styles.exhibitImage} style={{ backgroundImage: `url(${props.image})` }}></div>
       <div>
         <h2>{props.title}</h2>
-        <ReactMarkdown source={props.text}/>
+        <ReactMarkdown source={props.text} renderHtml={true}/>
       </div>
   </div>
 )
