@@ -8,3 +8,9 @@
   margin-left: 50%;
   transform: translateX(-50%);
 }
+
+
+.greyBackground h1, p {
+  max-width: maxContentWidth;
+  margin: 0 auto;
+}
