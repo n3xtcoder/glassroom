@@ -20,7 +20,7 @@ const NavMain = (props) => {
               Exhibit
           </Link>
           <Link to={'/program'} className={styles.link} activeClassName={styles.active} onClick={toggle}>
-              Program
+              Programme
           </Link>
       </ul>
     </nav>
