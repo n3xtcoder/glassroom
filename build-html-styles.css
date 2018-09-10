@@ -271,31 +271,6 @@
     padding-top: calc(headerHeight + padding);
   }
 }
-.src-components----topImage-module---topImage---EGcMC {
-  width: 100%;
-  height: 0;
-  padding: 33%;
-  background-position: center;
-  background-size: cover;
-}
-
-.src-components----topImage-module---imageRow---3fuwZ {
-  display: flex;
-  justify-content: space-between;
-}
-
-.src-components----topImage-module---imageWrapper---1QFH0 {
-  width: 360px;
-  margin: gutter;
-}
-
-.src-components----topImage-module---rowImage---3Klkf{
-  width: 100%;
-  height: 0;
-  padding-top: 66%;
-  background-position: center;
-  background-size: cover;
-}
 .src-components----blockquote-module---blockquote---9tUMf {
   border-left: 4px solid lightGrey;
   max-width: textBlockWidth;
@@ -363,7 +338,6 @@
   text-align: center;
   margin-top: -15px;
 }
-
 .src-templates----about-module---videoWrapper---3duB0 {
   position: relative;
   padding-top: 56.25%;
@@ -461,6 +435,31 @@
   width: 100%;
 }
 
+.src-components----topImage-module---topImage---EGcMC {
+  width: 100%;
+  height: 0;
+  padding: 33%;
+  background-position: center;
+  background-size: cover;
+}
+
+.src-components----topImage-module---imageRow---3fuwZ {
+  display: flex;
+  justify-content: space-between;
+}
+
+.src-components----topImage-module---imageWrapper---1QFH0 {
+  width: 360px;
+  margin: gutter;
+}
+
+.src-components----topImage-module---rowImage---3Klkf{
+  width: 100%;
+  height: 0;
+  padding-top: 66%;
+  background-position: center;
+  background-size: cover;
+}
 .src-components----exhibitItem-module---exhibit---1koa9 {
   display: flex;
   max-width: maxContentWidth;
@@ -605,6 +604,7 @@
   max-width: maxContentWidth;
   margin: 0 auto;
 }
+
 
 
 /*# sourceMappingURL=build-html-styles.css.map*/
