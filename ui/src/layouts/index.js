@@ -19,13 +19,9 @@ const TemplateWrapper = ({ data, children }) => {
     return (
         <div>
             <Helmet
-                title="The Galss Room"
+                title="The Glass Room"
                 meta={[
-                    { name: 'description', content: 'Alongside the Glass Room Pop up exhibitions, The Glass Room Experience
-                    is a DIY exhibition that anyone can be set up in virtually any
-                    space.Over 2018 we’ll be sending our Experience sets out to schools,
-                    colleges, libraries, events and organisations all around the world.' },
-                    { name: 'keywords', content: 'keywords' },
+                    { name: 'description', content: 'Alongside the Glass Room Pop up exhibitions, The Glass Room Experience is a DIY exhibition that anyone can be set up in virtually any space.Over 2018 we’ll be sending our Experience sets out to schools, colleges, libraries, events and organisations all around the world.' }
                 ]}
             />
             <Header/>

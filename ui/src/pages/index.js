@@ -28,7 +28,7 @@ export default ({ data }) => {
             />
           </div>
           <Blockquote quote={quote}/>
-          <Content src={data.page.html}/>
+          <Content content={data.page.html}/>
           <CircleLinks nav={imageNav}/>
         </div>
     );
