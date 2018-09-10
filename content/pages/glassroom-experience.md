@@ -2,7 +2,7 @@
 templateKey: experience
 title: the glass room experience
 blockquote: An eye-catching, self-learning installation on data and privacy you can easily set up and host for your own event, organisation or space. What is personal data in an age when our data is everything but personal? Our websites, apps, social media and 'smart' devices all thrive on the same thing that makes tech companies billions – data. Not just any data, but our data.
-topImage: /glassroomheader.jpg
+topImage: /header.jpg
 imageRow1:
   - /uploads/r1_1.jpg
   - /uploads/r1_2.jpg
