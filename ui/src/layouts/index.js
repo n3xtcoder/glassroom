@@ -9,8 +9,7 @@ import styles from './layout.module.css';
 
 const helmet = () => (
     <helmet>
-        <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet"/>
-        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://indestructibletype-fonthosting.github.io/jost.css" type="text/css" charset="utf-8" />
     </helmet>
 );
 
